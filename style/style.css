@@ -1,0 +1,26 @@
+#nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.barber_card {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    margin: auto;
+  }
+  
+  .Batba{
+    width:auto;
+    float: left;
+  }
+
+  .Kont{
+    width: 25%;
+    float: left;
+    padding: 10px;
+  }
